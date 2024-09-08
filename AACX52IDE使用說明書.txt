@@ -1,5 +1,5 @@
   
-		AACHIP AAX52IDE 中文使用說明書
+		AACHIP AAX52IDE V2.0中文使用說明書
 
 8051 8052 皆為intel 註冊的商標及專利.本公司所寫的AACHIPX52IDE,
 及X52 ASSEMBLY COMPILER 皆為本公司參考網路技術手冊所寫,與INTEL沒有關係,此程式為本公司內部使用,
@@ -160,3 +160,5 @@ g:各種獨立顯示的視窗顯示:可以獨立於主畫面之外顯示各種�
 20.V20版新增加Cwindows 可以在開啟sdcc C COMPILER 出來的ihx和map,LST,結合C SOURCE FILE 就可以直接看C SOURCE 來做Debug
   1.點選Cwindows 的C source file 的行,在debug disassembly file 就會指向對應的disassembly 指令的行
   2.當程式開始執行後無論是單步還是執行都可以完美對應到C Source file.
+  
+********詳細說明可以參考 www.youtube.com/@AACHIP-ku3kt 內有詳細說明及例子**********************************************
